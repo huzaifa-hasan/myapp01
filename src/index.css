@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  background-color: #c7c4bfc0;
+}
+
+.linkText {
+  text-decoration: none;
+  color: black;
+  margin-right: 8px;
+  margin-left: 8px;
+}
+
+.anchorButton{
+  background-color: #dfe0e7;
+  border: 1px solid #bfc0c7;
+  height: 25px;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pageHead {
+  display: flex;
+  justify-content: center;
+}
+
+.pageBody {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
