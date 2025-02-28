@@ -1,2 +1,2 @@
 for practice
-upudated gh-pages
+updated gh-pages
